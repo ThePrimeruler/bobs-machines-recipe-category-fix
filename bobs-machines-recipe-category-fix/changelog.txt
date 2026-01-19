@@ -1,0 +1,12 @@
+---------------------------------------------------------------------------------------------------
+Version: 0.0.2
+Date: 2025-12-30
+  Changes:
+    - Added Wayward Seas Support
+    - Added Crushing Recipes
+    - Added Lumbermill Support For Some Things
+---------------------------------------------------------------------------------------------------
+Version: 0.0.1
+Date: 2025-11-22
+  Changes:
+    - Initial Mod Release

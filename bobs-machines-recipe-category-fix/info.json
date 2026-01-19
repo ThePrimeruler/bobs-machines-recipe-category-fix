@@ -1,0 +1,20 @@
+{
+    "name": "bobs-machines-recipe-category-fix",
+    "version": "0.0.2",
+    "title": "Bobs Machines Recipe Category Fix",
+    "author": "Primeruler",
+    "factorio_version": "2.0",
+    "description": "Adds Some Recipes To Add More Cross Compatibility Between Mods That Add Wood",
+    "settings": ["settings.lua"],
+    "homepage":"https://github.com/ThePrimeruler/bobs-machines-recipe-category-fix",
+    "dependencies": [
+        "base",
+        "? space-age",
+        "? wood-industry",
+        "? Bio_Industries_2",
+        "? planet-muluna",
+        "? lignumis",
+        "? wayward-seas"
+    ],
+    "space_travel_required": true
+}

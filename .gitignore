@@ -1,0 +1,4 @@
+*.vscode*
+*temp*
+*tmp.*
+move_mod_to_factorio_mods_folder.py
