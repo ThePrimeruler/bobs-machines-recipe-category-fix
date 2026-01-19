@@ -4,7 +4,7 @@
     "title": "Bob's Machines Recipe Category Fix",
     "author": "Primeruler",
     "factorio_version": "2.0",
-    "description": "Aligns Bob's upgraded machines with base-tier crafting categories for Space Age compatibility.",
+    "description": "Fix for Bob Machines Not Being Able To Craft Some Things That The Base Machines Can",
     "homepage": "https://github.com/ThePrimeruler/bobs-machines-recipe-category-fix",
     "dependencies": [
         "base",
