@@ -9,6 +9,7 @@
     "dependencies": [
         "base",
         "? space-age",
-        "? bobassembly"
+        "? bobassembly",
+        "(?) thinking_brain"
     ]
 }

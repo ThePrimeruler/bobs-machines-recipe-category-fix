@@ -7,6 +7,7 @@ local function debug_log(message)
     end
 end
 
+
 local function copy_crafting_categories(machine_type, source_name, target_name)
     local machine_table = data.raw[machine_type]
     if not machine_table then
@@ -27,6 +28,7 @@ local function copy_crafting_categories(machine_type, source_name, target_name)
     end
 
     target.crafting_categories = table.deepcopy(source.crafting_categories)
+    data.extend({target})
 end
 
 if mods["bobassembly"] then
