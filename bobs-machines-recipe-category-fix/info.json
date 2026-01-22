@@ -1,10 +1,10 @@
 {
     "name": "bobs-machines-recipe-category-fix",
-    "version": "0.1.0",
+    "version": "0.0.1",
     "title": "Bob's Machines Recipe Category Fix",
     "author": "Primeruler",
     "factorio_version": "2.0",
-    "description": "Fix for Bob Machines Not Being Able To Craft Some Things That The Base Machines Can",
+    "description": "Fixes for Bob Machines Not Being Able To Craft Some Things That The Base Machines Can",
     "homepage": "https://github.com/ThePrimeruler/bobs-machines-recipe-category-fix",
     "dependencies": [
         "base",
